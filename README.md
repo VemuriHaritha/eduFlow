@@ -66,7 +66,7 @@ A full-stack MERN Learning Management System where instructors create and manage
 
 | Lesson Player | Profile | Admin Panel |
 |---|---|---|
-| ![Lesson Player](docs/screenshots/lesson-player.png) | ![Profile](docs/screenshots/quiz.png) | ![Admin Panel](docs/screenshots/admin-panel.png) |
+| ![Lesson Player](docs/screenshots/lesson-player.png) | ![Profile](docs/screenshots/profile.png) | ![Admin Panel](docs/screenshots/admin-panel.png) |
 
 ---
 
